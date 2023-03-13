@@ -23,19 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApi.UseCases", "Fir
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presents", "Presents", "{D7936B29-FACB-41B8-807B-757DEAF10885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebApi.Presenters", "FirstWebApi.Presenters\FirstWebApi.Presenters.csproj", "{75456557-F041-40E1-9E5C-01797095249B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApi.Presenters", "FirstWebApi.Presenters\FirstWebApi.Presenters.csproj", "{75456557-F041-40E1-9E5C-01797095249B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controller", "Controller", "{1C72BB8C-5047-4471-8D47-688A91CCDD31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebApi.Controllers", "FirstWebApi.Controllers\FirstWebApi.Controllers.csproj", "{2B635FE2-0C90-470D-8D6C-EE85F736FD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApi.Controllers", "FirstWebApi.Controllers\FirstWebApi.Controllers.csproj", "{2B635FE2-0C90-470D-8D6C-EE85F736FD90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebApi.InverisionControl", "FirstWebApi.InverisionControl\FirstWebApi.InverisionControl.csproj", "{217487C7-0D23-4EFD-85E7-E06C2C31EFE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApi.InverisionControl", "FirstWebApi.InverisionControl\FirstWebApi.InverisionControl.csproj", "{217487C7-0D23-4EFD-85E7-E06C2C31EFE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrameworksAndDrivers", "FrameworksAndDrivers", "{9C1118DD-8C5D-47C7-BD2D-5C5F3CE8F986}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UIs", "UIs", "{1ED6B855-2FE2-4AA4-BC25-3CF419642E0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebApi.WebApi", "FirstWebApi.WebApi\FirstWebApi.WebApi.csproj", "{46C02CA7-6ED8-4BA1-97D6-1C732CB09C24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApi.WebApi", "FirstWebApi.WebApi\FirstWebApi.WebApi.csproj", "{46C02CA7-6ED8-4BA1-97D6-1C732CB09C24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
